@@ -391,7 +391,7 @@ reusable analytics component rather than a one-off notebook exercise.
 
 ## 👤 Author
 
-**[Your Name]**
+**Komal Kumari**
 B.Tech Computer Science Student — Data Analytics Internship Project (Task 4: Sentiment Analysis)
 
 📧 komalkumari68635@gmail.com 🔗 [LinkedIn]https://www.linkedin.com/in/komal-kumari-016747373?utm_source=share_via&utm_content=profile&utm_medium=member_android 💻 [GitHub](https://github.com/your-username)
