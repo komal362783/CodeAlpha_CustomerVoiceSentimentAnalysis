@@ -394,6 +394,6 @@ reusable analytics component rather than a one-off notebook exercise.
 **[Your Name]**
 B.Tech Computer Science Student — Data Analytics Internship Project (Task 4: Sentiment Analysis)
 
-📧 your.email@example.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/your-username)
+📧 komalkumari68635@gmail.com 🔗 [LinkedIn]https://www.linkedin.com/in/komal-kumari-016747373?utm_source=share_via&utm_content=profile&utm_medium=member_android 💻 [GitHub](https://github.com/your-username)
 
 *Feel free to fork this repository, open issues, or suggest improvements!*
